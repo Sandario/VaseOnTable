@@ -1,6 +1,6 @@
 # VaseOnTable
 
-Project for Computergrphics lecture.
+Project for Computergraphics lecture.
 
 
 Student: Konstantin Eisebitt 
